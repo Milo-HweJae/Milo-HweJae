@@ -5,7 +5,7 @@
 	
   </div>
   
-#### - 🔭 I’m currently working on Korea University School of Cybersecurity
+#### - 🔭 I’m currently working on Korea University School of Cybersecurity, Hacking and Countermeasure Research Lab(HCRL)
 
 #### - 🌱 I’m currently learning Deep Learning
 
